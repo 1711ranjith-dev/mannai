@@ -1,0 +1,6 @@
+{
+  "name": "TerraMech",
+  "description": "AI-Powered Smart Clay Pot Analysis & Traditional Pottery Guide",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
